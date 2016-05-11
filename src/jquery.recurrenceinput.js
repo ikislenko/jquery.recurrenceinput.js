@@ -187,8 +187,8 @@
         shortWeekdays: [
             'Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'],
 
-        longDateFormat: 'mmmm dd, yyyy',
-        shortDateFormat: 'mm/dd/yyyy',
+        longDateFormat: 'dd/mm/yyyy',
+        shortDateFormat: 'dd/mm/yyyy',
 
         unsupportedFeatures: 'Warning: This event uses recurrence features not ' +
                               'supported by this widget. Saving the recurrence ' +
